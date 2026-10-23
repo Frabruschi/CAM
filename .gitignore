@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+.vscode/
+
+node_modules/
+desktop/node_modules/
+
+dist/
+desktop/dist/
+desktop/app/index.html
+
+coverage/
+*.log
+__pycache__/
+*.py[cod]
